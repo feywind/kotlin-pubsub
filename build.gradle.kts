@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test-junit"))
-    implementation("com.google.cloud:google-cloud-pubsub:1.110.1")
+    implementation("com.google.cloud:google-cloud-pubsub:1.112.0")
     implementation(kotlin("stdlib"))
 
     // This gets us AutoCloseable support.
