@@ -7,4 +7,5 @@ Java Pub/Sub libraries. Kotlin is not currently a supported language
 for this library, but this may be helpful if you want to try anyhow.
 
 ### Blog post
-This is part of a Medium blog post series, will add the link later.
+This is part of [a Medium blog post series](https://feywind.medium.com/using-cloud-pub-sub-from-kotlin-d501f7d65e24).
+
